@@ -17,6 +17,20 @@ font-family: 'Open Sans', sans-ser
     background: #FD6E0A;
 
 }
+.btn-second{
+    font-weight: 700;
+    font: size 20px;
+    border-color: #FD6E0A;
+    border-radius: 5px;
+    margin-left: 15px;
+    height: 64px;
+    padding: 18px 35px;
+    color: #FD6E0A;;
+    
+    
+    
+
+}
 .header{
     background: #FFF8F3;
     background-image: url('/images/header_bg.png'),url('../images/developer.png'); 
